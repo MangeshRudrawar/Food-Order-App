@@ -1,0 +1,32 @@
+const DUMMY_MEALS = [
+    {
+      id: 'm1',
+      name: 'Pizza',
+      description: 'Finest veggies with deliciousness of cheese',
+      price: 500,
+    },
+    {
+      id: 'm2',
+      name: 'Chole-Kulche',
+      description: 'North Indian Speciality',
+      price: 160,
+    },
+    {
+      id: 'm3',
+      name: 'Paneer Tikka',
+      description: 'Grilled Paneer in Mid Spicy red gravy',
+      price: 300,
+    },
+    {
+      id: 'm4',
+      name: 'Green Bowl',
+      description: 'Healthy...and green...',
+      price: 120,
+    },
+    {
+      id: 'm5',
+      name: 'Grilled Sandwich',
+      description: 'Grilled bread with lots of veggies, Mayo and Cheese',
+      price: 80,
+    },
+  ];
